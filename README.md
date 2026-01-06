@@ -7,7 +7,6 @@
 ### 🧠 What I'm Working On
 - **B-Food** – A UCLA student app for campus dining and deliveries (React Native + Supabase)  
 - **bt:wn** – A skill-trading platform built at Creative Labs UCLA  
-- Exploring **quantitative finance**, **AI for optimization**, and **systems engineering**
 
 ### 🧰 Tech Stack
 `Python` • `TypeScript` • `React Native` • `Node.js` • `C++` • `Swift` • `Streamlit` • `SQL`
