@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋 I'm Michael Suarez-Russell
 
-<!--
-**MichaelSuarezR/MichaelSuarezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mathematics of Computation @ UCLA**  
+💻 Aspiring **Software Engineer & Quantitative Developer**  
+🚀 Passionate about building full-stack apps and scalable systems that make data more intuitive and accessible.
 
-Here are some ideas to get you started:
+### 🧠 What I'm Working On
+- **B-Food** – A UCLA student app for campus dining and deliveries (React Native + Supabase)  
+- **bt:wn** – A skill-trading platform built at Creative Labs UCLA  
+- Exploring **quantitative finance**, **AI for optimization**, and **systems engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`Python` • `TypeScript` • `React Native` • `Node.js` • `C++` • `Swift` • `Streamlit` • `SQL`
+
+### 🌎 Connect With Me
+🔗 [LinkedIn](https://linkedin.com/in/michael-suarez-russell)  
+💼 [Portfolio](https://michaelsuarezr.com)  
+📫 michaelsr@g.ucla.edu  
+
+---
